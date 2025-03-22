@@ -34,24 +34,6 @@ The dataset used is Credit Card Fraud Dataset.
 
 Ensure creditcard.csv is placed in the project directory before running the script.
 
-🔧 Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Fraud-Detection-System.git
-
-Navigate to the project directory:
-
-cd Fraud-Detection-System
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the fraud detection script:
-
-python fraud_detection.py
-
 🎯 Usage
 
 The CLI will prompt you to enter transaction details.
